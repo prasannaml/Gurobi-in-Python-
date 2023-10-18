@@ -1,2 +1,2 @@
-Supply chain problem example with Gurobipy
+# Supply chain problem example with Gurobipy
 
